@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-void train() {
-
-	printf("Train");
-};
 
 int main() {
 
+};
+
+
+void train() {
+
+	printf("Train");
 };
