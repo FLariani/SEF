@@ -9,8 +9,8 @@ int main() {
 void train() {
 
 	printf("Train");
-	printf("The first feature is added");
-};
+	printf("he second feature is added");
+};	
 void predict() {
 
 	printf("predict");
